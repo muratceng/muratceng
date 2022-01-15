@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<--
-**muratceng/muratceng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - 🔭 I’m currently working on React,Data Science and backend things.
 - 🌱 I’m currently learning React
 - 💬  You can ask me a question so that you can get rid of what you are wondering about me.
